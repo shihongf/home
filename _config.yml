@@ -1,0 +1,30 @@
+title: Shihong Fang
+url: "https://shihongf.github.io"
+baseurl: "/home"
+author: Shihong Fang
+markdown: kramdown
+
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+favicon: yes
+favicon_location: /home/assets/images/favicon.png
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana, modification by Shihong Fang."
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/home/"
+ - name: "Blog"
+   link: "/home/blog/"
+ - name: "Resume"
+   link: "/home/resume.pdf"
+ - name: "Contact"
+   link: "/home/contact"
